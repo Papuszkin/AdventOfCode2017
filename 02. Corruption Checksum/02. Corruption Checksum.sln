@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Corruption Checksum", "02. Corruption Checksum\02. Corruption Checksum.csproj", "{5C3F5441-DBE8-4D55-9519-A5C10A8E8DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3F5441-DBE8-4D55-9519-A5C10A8E8DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3F5441-DBE8-4D55-9519-A5C10A8E8DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3F5441-DBE8-4D55-9519-A5C10A8E8DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3F5441-DBE8-4D55-9519-A5C10A8E8DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55549B9E-ACC0-4019-BA68-2AE6919503A9}
+	EndGlobalSection
+EndGlobal
